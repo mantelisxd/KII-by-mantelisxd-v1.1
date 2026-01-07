@@ -1,8 +1,6 @@
 # KII-by-mantelisxd-v1.1
 ------------------------ KII v1.1 by mantelisxd ------------------------
 
-				README
-
 
 Čia bus pateikta visa reikalinga informacija apie Kompiuterio Išjungimo Įrankį arba KII.
 
